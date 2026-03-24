@@ -17,7 +17,7 @@ description: |
   - mcp__launchfast__supplier_research
   - mcp__launchfast__amazon_keyword_research
 
-argument-hint: [product keyword]
+argument-hint: "[product keyword]"
 ---
 
 # LaunchFast Full Research Loop

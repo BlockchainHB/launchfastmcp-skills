@@ -14,7 +14,7 @@ description: |
 
   Requirements: mcp__launchfast__research_products available
 
-argument-hint: [keyword1] [keyword2] [keyword3] ...
+argument-hint: "[keyword1] [keyword2] [keyword3] ..."
 ---
 
 # LaunchFast Product Research Skill

@@ -14,7 +14,7 @@ description: |
 
   Requirements: mcp__launchfast__amazon_keyword_research available
 
-argument-hint: [ASIN1] [ASIN2] ... | "ppc [keyword]"
+argument-hint: "[ASIN1] [ASIN2] ... | ppc [keyword]"
 ---
 
 # LaunchFast PPC Research Skill

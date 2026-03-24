@@ -10,7 +10,7 @@ description: |
   - "check my Alibaba messages" / "any replies?"
   - "follow up with [supplier]" / "negotiate with suppliers"
 
-argument-hint: [product keyword] | "check replies" | "follow up [supplier name]"
+argument-hint: "[product keyword] | check replies | follow up [supplier name]"
 ---
 
 # Alibaba Supplier Outreach Skill
